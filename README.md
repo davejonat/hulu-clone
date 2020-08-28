@@ -1,6 +1,8 @@
-This project is a clone of Hulu a subscription video on demand service media platform just like NetFlix. 
+## Project Brief
 
-Developed with REACT JS to show the power of my REACT Skills for demonstration purposes.
+This project is a Hulu clone, a subscription video on demand service media platform just like NetFlix. 
+
+Developed with REACT JS to put use the power of REACT with my skills for demonstration purposes.
 
 Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
