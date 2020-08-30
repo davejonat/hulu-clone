@@ -15,7 +15,7 @@ function Results( {selectedOption}) {
                     // console.log(request);
             }
             fetchData();
-        },[selectedOption]);
+        }, [selectedOption]);
 
     return (
         <div className="results">
