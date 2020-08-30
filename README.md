@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Brief
+
+This project is a Hulu clone, a subscription video on demand service media platform just like NetFlix. 
+
+Developed with REACT JS to put use the power of REACT with my skills for demonstration purposes.
+
+Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
